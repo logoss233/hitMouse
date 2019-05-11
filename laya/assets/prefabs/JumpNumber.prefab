@@ -1,0 +1,1 @@
+{"type":"Label","props":{"text":"100","color":"#ff0000","x":0,"y":0,"fontSize":30,"stroke":3,"strokeColor":"#ffffff","name":"JumpNumber","preset":"laya/assets/prefabs/JumpNumber.prefab","presetID":1,"isPresetRoot":true},"compId":22,"child":[],"isAniNode":true,"nodeParent":21,"searchKey":"Label,JumpNumber","label":"JumpNumber","isDirectory":false,"hasChild":false,"x":45}
